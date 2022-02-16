@@ -1,0 +1,6 @@
+C:\Windows\System32\notepad.exe
+abcd
+C:\Windows\System32\calc.exe
+C:\Windows\System32\mspaint.exe
+mandar
+C:\Windows\System32\SnippingTool.exe
