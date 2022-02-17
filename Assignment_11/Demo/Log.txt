@@ -1,2 +1,0 @@
-Below are duplicate file are deleted from folder
-exp_letter.txt
